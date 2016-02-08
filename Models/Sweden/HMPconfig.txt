@@ -1,0 +1,7 @@
+PickUp 5 8 11
+PourS 5 8 11
+PutDown 5 8 11
+PourE 5 8 11
+Sit 5 6 6
+Stand 5 7 6
+Walk 5 13 21

@@ -1,0 +1,2 @@
+/usr/bin/ar cr libGMM+GMR.a  CMakeFiles/GMM+GMR.dir/gmr.o CMakeFiles/GMM+GMR.dir/Macros.o CMakeFiles/GMM+GMR.dir/Matrix.o CMakeFiles/GMM+GMR.dir/Vector.o
+/usr/bin/ranlib libGMM+GMR.a

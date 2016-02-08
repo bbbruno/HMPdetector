@@ -1,0 +1,2 @@
+/usr/bin/ar cr libDspFilters.a  CMakeFiles/DspFilters.dir/Biquad.o CMakeFiles/DspFilters.dir/Cascade.o CMakeFiles/DspFilters.dir/ChebyshevI.o CMakeFiles/DspFilters.dir/Design.o CMakeFiles/DspFilters.dir/Filter.o CMakeFiles/DspFilters.dir/PoleFilter.o CMakeFiles/DspFilters.dir/State.o
+/usr/bin/ranlib libDspFilters.a

@@ -1,0 +1,24 @@
+\BOOKMARK [0][-]{chapter.1}{Preliminary Info}{}
+\BOOKMARK [1][-]{section.1.1}{Contact Info}{chapter.1}
+\BOOKMARK [1][-]{section.1.2}{References}{chapter.1}
+\BOOKMARK [0][-]{chapter.2}{System Requirements}{}
+\BOOKMARK [1][-]{section.2.1}{OS Requirements}{chapter.2}
+\BOOKMARK [1][-]{section.2.2}{Hardware Requirements}{chapter.2}
+\BOOKMARK [0][-]{chapter.3}{Getting Started}{}
+\BOOKMARK [1][-]{section.3.1}{Package description}{chapter.3}
+\BOOKMARK [1][-]{section.3.2}{Installation Guide}{chapter.3}
+\BOOKMARK [2][-]{subsection.3.2.1}{Third-party libraries}{section.3.2}
+\BOOKMARK [2][-]{subsection.3.2.2}{Installation Procedure}{section.3.2}
+\BOOKMARK [1][-]{section.3.3}{Hardware Setup}{chapter.3}
+\BOOKMARK [1][-]{section.3.4}{System Overview}{chapter.3}
+\BOOKMARK [1][-]{section.3.5}{Basic Human Motion Primitives}{chapter.3}
+\BOOKMARK [0][-]{chapter.4}{Tutorials}{}
+\BOOKMARK [1][-]{section.4.1}{Display program help}{chapter.4}
+\BOOKMARK [1][-]{section.4.2}{Create the models of the default modelling dataset}{chapter.4}
+\BOOKMARK [1][-]{section.4.3}{Create the models of an existing modelling dataset}{chapter.4}
+\BOOKMARK [1][-]{section.4.4}{Load a set of existing models with default loading options}{chapter.4}
+\BOOKMARK [1][-]{section.4.5}{Validate a loaded model with an existing set of validation trials}{chapter.4}
+\BOOKMARK [1][-]{section.4.6}{Perform off-line classification of an existing long recording}{chapter.4}
+\BOOKMARK [0][-]{chapter.5}{Advanced Operations}{}
+\BOOKMARK [1][-]{section.5.1}{Modify the modelling parameters of an existing modelling dataset}{chapter.5}
+\BOOKMARK [1][-]{section.5.2}{Modify the classification parameters of an existing modelling dataset}{chapter.5}

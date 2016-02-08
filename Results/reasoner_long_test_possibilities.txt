@@ -1,0 +1,8 @@
+PutDownDrink start:[115,115] end:[146,146] possibility: 0.716329
+PickUpPour start:[195,195] end:[198,198] possibility: 0.118985
+PutDownDrink start:[666,666] end:[691,691] possibility: 0.638683
+PickUpPour start:[1115,1115] end:[1125,1125] possibility: 0.374715
+Stand start:[1240,1240] end:[1285,1285] possibility: 0.953495
+Sit start:[1792,1792] end:[0,0] possibility: 0.195236
+PutDownDrink start:[2268,2268] end:[2301,2301] possibility: 0.870411
+PutDownPour start:[2326,2326] end:[2333,2333] possibility: 0.183839

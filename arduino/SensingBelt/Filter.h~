@@ -1,0 +1,22 @@
+//============================================================================
+// Name		: Filter.h
+// Author(s)	: Barbara Bruno
+// Affiliation	: University of Genova, Italy - dept. DIBRIS
+// Version	: 1.0
+// Description	: Chebyshev I 2° order low-pass filter
+//============================================================================
+
+#include <Arduino.h>
+
+class Filter
+{
+	public:
+		Filter();
+		float run(float data);
+		
+	private:				
+		float _v[2];
+};
+
+
+
